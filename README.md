@@ -1,4 +1,4 @@
-#The App shows different time zones using the world Time API. The Packages used includes
+## The App shows different time zones using the world Time API. The Packages used includes
 
 1 http
 2 intl
