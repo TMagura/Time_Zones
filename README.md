@@ -1,6 +1,8 @@
-# practice
+#The App shows different time zones using the world Time API. The Packages used includes
 
-A new Flutter project.
+1 http
+2 intl
+3 flutter_spinkit
 
 ## Getting Started
 
